@@ -1,0 +1,160 @@
+[1] check the given number is EVEN or ODD
+		Algorithm:
+		
+	step 1)Enter the number 
+	step 2)if the number in the multiple of 2+4+6+8+.... then its a even number.
+	step 3)if the number in the series of 1+3+5+7+.....then its a odd number.
+	
+[2]	Write the java program to find the factorial of the given number.
+
+       Algorithm:
+	   
+	 step 1)Enter the number from 1 to 5.
+	 step 2)take a multiplication of this numbers.
+	 step 3)1*2*3*4*5=120
+	 step 4)the factorial of this number are 120.
+
+[3]find the factorial using recursion.
+
+      Algorithm:
+	  
+	  step 1)Enter the positive Integer n.
+	  step 2)if the n is equal to 1 i.e.(n==1) return 1
+	  step 3)else return n*factorial(n-1)
+	  
+[4]swap to numbers without using third variable approach.
+
+     Algorithm: 
+	 [step 1] declare the two positive numbers.
+	 [step2]read two numbers from keyboard.
+	 [step3]first number=20,second number =30.
+	 [step4]swap the numbers.
+	 [step5]first number=30,second number=20.
+	 
+ [5]How to check the given number is positive or negative in java.
+ 
+ step[1] enter the number
+ step[2]if the number is less than 0 it is negative number.
+ step[3]if the given number is greater than 0 then it is positive number.
+ 
+ [6] write a java program to find whether given number is leap year or not.
+ 
+ step[1]enter the 4 digit number which indicate year
+ step[2]devide the number by 4.
+ step[3]if the remainder is getting 0 then it is leap year.
+ step[4]if the remainder is not getting 0 then it is not leap year.
+ 
+ [7] write a java program to print 1 to 10 without using loop.
+ 
+ step[1] enter the class name
+ step[2] public static void (String args[])
+ step[3]System.out.println(1)
+        System.out.println(2)
+        System.out.println(3)
+        System.out.println(4)
+	System.out.println(5)
+	System.out.println(6)
+	System.out.println(7)
+        System.out.println(8)
+	System.out.println(9)
+        System.out.println(10)
+
+
+[8]write the java program to print the digit of given number.
+
+step[1] enter the class name
+step[2] public static void (String args[])
+step[3] System.out.println("Enter the number");
+step[4] System.out.println(100);
+step[5] System.out.print("the digit of the given number is:    ");
+step[6] System.out.print(3);
+
+
+[9]write a java program to print all the factor of the given number.
+
+step[1] Enter the two numbers
+step[2] if we enter the 1st number=i and second number =n
+step[3] condition is that i>=n
+step[4]	deviding to number =i/n
+step[5] we will get factors of the given number.
+
+[10]write a java program to find sum of the digits of the given number
+
+step[1] Enter the number
+step[2] if n>0
+step[3]  n=234
+step[4] digits=2+3+4
+step[5]  sum=9
+
+[11]write the java program to find the smallest of 3 numbers(a,b,c)
+
+step[1] enter the number a,b,c
+step[2] if a<b  and a<c here a is small.
+step[3] if it is true print 'a' is the smallest number.
+step[4]else b or c  is smallest number.
+step[5]check b<c .
+step[6]if yes then print b is smallest
+step[7]else print c is smallest.
+
+
+[12]how to add two numbers without using the arithmeic operator in java.
+
+
+
+[13] write a java program to reverse a given number.
+
+step[1] enter the number n
+step[2] set reverse=0
+step[3] if n>0 if yes then reverse=(reverse*10)+(n%10)
+step[4]n=n/10
+
+[14] write the java program to find GCD of two given numbers.
+
+step[1] enter the numbers 20 and 10.
+step[2] find the factor of 20 and 10
+         20=2*5*2
+         10=2*5
+step[3] GCD of given numbers=2*5=10
+
+[15] write java program to find LCM of two given numbers.
+
+step[1] enter the 2 numbers 30 and 40.
+step[2] find the factors of 30 and 40
+          30=2*5*3
+          40=2*2*2*5
+step[3] find the HCL=2*5=10
+step[4]  LCM=10*12=120
+
+[16]  write the java program to LCM of two given number using prime factors method.
+
+step[1] enter the number 48 and 36.
+step[2] find the factor of those numbers.
+step[3] 48=2*2*3*2*2
+        36=2*2*3*3
+step[4]LCM=2*2*3*2*2*3=144
+
+[17] write the program the given number is palindrome or not.
+
+step[1] enter the number 2002
+step[2] if we read the number reverse is like enter number then its palindrome.
+
+[18] write the java program to print all the prime factors of the given number.
+
+step[1] enter the number 
+step[2] if the number n is enter is even then devide by 2
+step[3]after step 2 n is odd.
+step[4] start loop from i=3 to square root of n.
+step[5] if n is prime number and greater than 2 then n will not become 1 by above two steps.
+
+[19]To print the following series EVEN number series 2,4,6,8,10,12,14,16....
+
+[20]
+
+         
+
+
+
+
+
+
+
